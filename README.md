@@ -11,7 +11,7 @@ Welcome to the Ticket Reservation System project! This system is designed for a 
 To get started, clone this repository to your local machine:
 
 
-# Ticket Reservation System - Requirements
+## Requirements
 
 The Ticket Reservation System has the following key requirements:
 
@@ -48,5 +48,5 @@ Create a new branch and push the branch to origin.   Create a PR against the mai
 Feel free to add me as a reviewer. 
 
 
-6. ## Expectations
+## Expectations
 The exercise is expected to take roughly an hour.   Within an hour, it's understood that there's not a lot of time to do all that's being proposed. The exercise is purposely written so that there's a time-constraint and is meant to test interpretation and prioritization.   But please don't feel bad if there's problems with the execution of the application or incomplete functions. 
