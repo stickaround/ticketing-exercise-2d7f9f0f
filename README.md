@@ -8,7 +8,8 @@ Welcome to the Ticket Reservation System project! This system is designed for a 
 
 ### Fork the Repository
 
-To get started, fork this repository to your personal git.  Then pull the main branch to your local machine.  
+To get started, fork this repository to your personal git.
+Then pull the main branch to your local machine.  
 
 ### Create a local branch
 
@@ -50,4 +51,4 @@ Feel free to add me as a reviewer.
 
 
 ## Expectations
-Exactly one hour will be given to participate in this exercise.   Within an hour, it's understood that there's not a lot of time to do anything or all that's being proposed. The exercise is purposely written so that there's a time constraintand is meant to test interpretation and prioritization.   But please don't feel bad if there's problems with the execution of the application or incomplete functions. Creating a functional application is definitely not the point. Representing some semblance of thinking process, organization etc. definitely is the point. 
+Exactly one hour will be given to participate in this exercise.   Within an hour, it's understood that there's not a lot of time to do anything or all that's being proposed. The exercise is purposely written so that there's a time constraint and is meant to test interpretation and prioritization.   But please don't feel bad if there's problems with the execution of the application or incomplete functions. Creating a functional application is definitely not the point. Representing some semblance of thinking process, organization etc. definitely is the point. 
