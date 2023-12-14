@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Ticket Reservation System project! This system is designed for a large movie theater chain, enabling users to browse movies, select showtimes, reserve seats, and make payments. The UI/UX is already designed, and a series of backend APIs are available for integration.
+Welcome to the Ticket Reservation System project! This system is designed for a large movie theater chain, enabling users to browse movies, select showtimes, reserve seats, and make payments.
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ Set up a frontend application using your preferred frontend framework (Angular, 
 3. **Create basic app structure**
 Create components that you feel represent the project, from page components to common components, libraries or utils etc.  Feel free to be creative here.  There's no right answer to how the structure is setup. Just use whatever best-practices that you've used in past projects and whatever you feel fits the framework used and the requirements as they are presented. The structure itself can be very rough, composed of just basic routing and empty frontend components.   Feel free to go as far as you want with the requirements but leave enough time for the next step.  
 
-4. **Write functional code**
+4. **Write function code**
 Pick one specific feature from the list above (e.g., seat selection logic) and write an outline of functions required to implement this feature. Pick one of the functions and write some of the code.  Feel free to write a very rough outline of the function code, as long as you're able to explain your logic around it. 
 
 5 **Commit changes**
@@ -49,4 +49,4 @@ Feel free to add me as a reviewer.
 
 
 ## Expectations
-The exercise is expected to take roughly an hour.   Within an hour, it's understood that there's not a lot of time to do all that's being proposed. The exercise is purposely written so that there's a time-constraint and is meant to test interpretation and prioritization.   But please don't feel bad if there's problems with the execution of the application or incomplete functions. 
+Exactly one hour will be given to participate in this exercise.   Within an hour, it's understood that there's not a lot of time to do anything or all that's being proposed. The exercise is purposely written so that there's a time constraintand is meant to test interpretation and prioritization.   But please don't feel bad if there's problems with the execution of the application or incomplete functions. Creating a functional application is definitely not the point. 
